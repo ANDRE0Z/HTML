@@ -29,26 +29,28 @@
 
 <!--It's a comment-->
 
-# 6: Links; 
+# 6: Links;
 
   <a href="URL or Folder/file">
 
-# 7: Images: 
+# 7: Images:
 
-  <img src="URL or folder/file" alt="Description">;
+<img src="URL or folder/file" alt="Description">;
 
-# 8: Tables: 
+# 8: Tables:
 
   <table> <!--TR(column, TD line-->
     <tr>
       <td>
 
-# 9: Lists: 
+# 9: Lists:
+
   <li> 
     <ol> Ordered list
       <ul>Unordered list
 
 # 10: iFrames:
+
   <iframe src="ULR or folder/file" title="render external page inside your page">;
 
 # 11:Form:
@@ -62,14 +64,19 @@
       <textarea name="" placeholder="" rows="" cols=""> 
   </form>
 
-# 12: Audio: 
-  <audio src="()">;
+# 12: Audio:
+
+<audio src="()">;
 
 # 13:Video: ex:
 
-  <video poster="image"width="100%" height="" autoplay controls disablepicktureinpicture controlslist=" nodownload nofullscreen" >
-    <source src=".mp4" type="video.mp4" >
-  </video>
+<video poster="image"width="100%" height="" autoplay controls disablepicktureinpicture controlslist=" nodownload nofullscreen" >
+<source src=".mp4" type="video.mp4" >
+</video>
 
-# 14: DIV and Semantic HTML
-teste
+# 14: DIV and Semantic HTML:
+
+  <div> </div>
+  <Header>
+  <Main> <Section> <article>q <nav>
+  <Footer>
