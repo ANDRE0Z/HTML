@@ -20,9 +20,20 @@
 
 # 10: iFrames: <iframe src="ULR or folder/file" title="render external page inside your page">;
 
-# 11:Form: <Form>, <input id="nameID" type="text/email/password/radio(select an option from several),checkbox(select multiple choices),/submit(button)" placeholder="marca d'água" value="()" required(fill this field)>,
-  <Label for id="nameID"> subtitle,
-  <select> <option value="">combo box,
-  <textarea name="" placeholder="" rows="" cols=""> 
+# 11:Form:
 
-# 12:Audio: <audio src="()">
+  <Form>, 
+    <input id="nameID" type="text/email/password/radio(select an option from several),checkbox(select multiple choices),/submit(button)" placeholder="marca d'água" value="()" required(fill this field)>
+    </input>,
+    <Label for id="nameID"> subtitle</label>
+    <select> 
+      <option value="">combo box</option>
+      <textarea name="" placeholder="" rows="" cols=""> 
+  </form>
+# 12:Audio: <audio src="()">;
+
+# 13:Video: ex:
+
+<video poster="image"width="100%" height="" autoplay controls disablepicktureinpicture controlslist=" nodownload nofullscreen" >
+<source src=".mp4" type="video" >
+</video>
